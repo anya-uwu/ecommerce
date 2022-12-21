@@ -524,9 +524,6 @@ a.button:focus {
   line-height: 1.5rem;
   color: rgba(255, 255, 255, 0.5);
 }
-.footer .footerNav a:hover {
-  color: white;
-}
-.footer .footerNav a:focus {
+.footer .footerNav a:hover, .footer .footerNav a:focus {
   color: white;
 }
