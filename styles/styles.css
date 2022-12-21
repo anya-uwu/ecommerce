@@ -527,3 +527,6 @@ a.button:focus {
 .footer .footerNav a:hover {
   color: white;
 }
+.footer .footerNav a:focus {
+  color: white;
+}

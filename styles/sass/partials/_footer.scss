@@ -21,6 +21,9 @@
             &:hover {
                 color: rgba($solidWhite, 1);
             }
+            &:focus {
+                color: rgba($solidWhite, 1);
+            }
         }
     }
 }
